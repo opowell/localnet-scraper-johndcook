@@ -1,0 +1,10 @@
+{
+  "scrapers": [
+    {
+      "name": "John D. Cook",
+      "urlPattern": "johndcook.com",
+      "searchUrl": "https://www.johndcook.com/blog/?s={term}"
+    }
+  ],
+  "file": "johndcook.js"
+}
